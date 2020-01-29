@@ -1,0 +1,16 @@
+C:/Backup/Project/Project/Canhan/Mediator/BehavioralSample/MyApplication/bin/Debug/netcoreapp3.1/MyApplication.deps.json
+C:/Backup/Project/Project/Canhan/Mediator/BehavioralSample/MyApplication/bin/Debug/netcoreapp3.1/MyApplication.dll
+C:/Backup/Project/Project/Canhan/Mediator/BehavioralSample/MyApplication/bin/Debug/netcoreapp3.1/MyApplication.pdb
+C:/Backup/Project/Project/Canhan/Mediator/BehavioralSample/MyApplication/obj/Debug/netcoreapp3.1/MyApplication.csprojAssemblyReference.cache
+C:/Backup/Project/Project/Canhan/Mediator/BehavioralSample/MyApplication/obj/Debug/netcoreapp3.1/MyApplication.AssemblyInfoInputs.cache
+C:/Backup/Project/Project/Canhan/Mediator/BehavioralSample/MyApplication/obj/Debug/netcoreapp3.1/MyApplication.AssemblyInfo.cs
+C:/Backup/Project/Project/Canhan/Mediator/BehavioralSample/MyApplication/obj/Debug/netcoreapp3.1/MyApplication.dll
+C:/Backup/Project/Project/Canhan/Mediator/BehavioralSample/MyApplication/obj/Debug/netcoreapp3.1/MyApplication.pdb
+/Users/phanthanhduytan/Downloads/BehavioralSample/MyApplication/bin/Debug/netcoreapp3.1/MyApplication.deps.json
+/Users/phanthanhduytan/Downloads/BehavioralSample/MyApplication/bin/Debug/netcoreapp3.1/MyApplication.dll
+/Users/phanthanhduytan/Downloads/BehavioralSample/MyApplication/bin/Debug/netcoreapp3.1/MyApplication.pdb
+/Users/phanthanhduytan/Downloads/BehavioralSample/MyApplication/obj/Debug/netcoreapp3.1/MyApplication.csprojAssemblyReference.cache
+/Users/phanthanhduytan/Downloads/BehavioralSample/MyApplication/obj/Debug/netcoreapp3.1/MyApplication.AssemblyInfoInputs.cache
+/Users/phanthanhduytan/Downloads/BehavioralSample/MyApplication/obj/Debug/netcoreapp3.1/MyApplication.AssemblyInfo.cs
+/Users/phanthanhduytan/Downloads/BehavioralSample/MyApplication/obj/Debug/netcoreapp3.1/MyApplication.dll
+/Users/phanthanhduytan/Downloads/BehavioralSample/MyApplication/obj/Debug/netcoreapp3.1/MyApplication.pdb

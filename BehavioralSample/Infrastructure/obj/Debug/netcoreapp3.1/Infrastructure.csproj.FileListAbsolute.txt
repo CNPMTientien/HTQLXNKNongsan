@@ -1,0 +1,16 @@
+C:/Backup/Project/Project/Canhan/Mediator/BehavioralSample/Infrastructure/bin/Debug/netcoreapp3.1/Infrastructure.deps.json
+C:/Backup/Project/Project/Canhan/Mediator/BehavioralSample/Infrastructure/bin/Debug/netcoreapp3.1/Infrastructure.dll
+C:/Backup/Project/Project/Canhan/Mediator/BehavioralSample/Infrastructure/bin/Debug/netcoreapp3.1/Infrastructure.pdb
+C:/Backup/Project/Project/Canhan/Mediator/BehavioralSample/Infrastructure/obj/Debug/netcoreapp3.1/Infrastructure.AssemblyInfoInputs.cache
+C:/Backup/Project/Project/Canhan/Mediator/BehavioralSample/Infrastructure/obj/Debug/netcoreapp3.1/Infrastructure.AssemblyInfo.cs
+C:/Backup/Project/Project/Canhan/Mediator/BehavioralSample/Infrastructure/obj/Debug/netcoreapp3.1/Infrastructure.dll
+C:/Backup/Project/Project/Canhan/Mediator/BehavioralSample/Infrastructure/obj/Debug/netcoreapp3.1/Infrastructure.pdb
+C:/Backup/Project/Project/Canhan/Mediator/BehavioralSample/Infrastructure/obj/Debug/netcoreapp3.1/Infrastructure.csprojAssemblyReference.cache
+/Users/phanthanhduytan/Downloads/BehavioralSample/Infrastructure/bin/Debug/netcoreapp3.1/Infrastructure.deps.json
+/Users/phanthanhduytan/Downloads/BehavioralSample/Infrastructure/bin/Debug/netcoreapp3.1/Infrastructure.dll
+/Users/phanthanhduytan/Downloads/BehavioralSample/Infrastructure/bin/Debug/netcoreapp3.1/Infrastructure.pdb
+/Users/phanthanhduytan/Downloads/BehavioralSample/Infrastructure/obj/Debug/netcoreapp3.1/Infrastructure.csprojAssemblyReference.cache
+/Users/phanthanhduytan/Downloads/BehavioralSample/Infrastructure/obj/Debug/netcoreapp3.1/Infrastructure.AssemblyInfoInputs.cache
+/Users/phanthanhduytan/Downloads/BehavioralSample/Infrastructure/obj/Debug/netcoreapp3.1/Infrastructure.AssemblyInfo.cs
+/Users/phanthanhduytan/Downloads/BehavioralSample/Infrastructure/obj/Debug/netcoreapp3.1/Infrastructure.dll
+/Users/phanthanhduytan/Downloads/BehavioralSample/Infrastructure/obj/Debug/netcoreapp3.1/Infrastructure.pdb
